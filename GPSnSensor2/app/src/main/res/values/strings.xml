@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GPS &amp; Sensor</string>
+    <string name="emerg_call">Emergency Call</string>
+    <string name="emerg_number">Emeregency number</string>
+    <string name="enter_emerg_number">Enter emergency number</string>
+    <string name="service_start">Start Service</string>
+</resources>
